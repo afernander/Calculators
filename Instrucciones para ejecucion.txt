@@ -1,0 +1,48 @@
+1 . java
+
+-compilar y ejecutar
+javac .\Operaciones.java
+java Operaciones
+
+-Ingresar datos
+Los datos se deben ingresar separados por un espacio entre cada signo o numero ejemplo: 3 + 4 - 5
+Para la suma ciclica se debe de poner la expresion entre corchetes ejemplo: [ 1 , <= 5 , 1 ; 8 + 4 ] = 60
+donde [ inicio , condicion fin , variacion ; exprecion ]
+Para la suma condicional se debe de poner la expresion entre llaves ejemplo: { 3 < 5 ? 4 : 5 } = 4
+donde { 1°_num_condicion condicion 2°_num_condicion ? exprecion1 : exprcion2 }
+
+2. Python
+
+-compilar y ejecutar
+python .\Calculadora.py
+
+-Ingresar datos
+Los datos se deben ingresar separados por un espacio entre cada signo o numero ejemplo: 3 + 4 - 5
+Para la suma ciclica se debe de poner la expresion entre corchetes ejemplo: [ 1 , <= 5 , 1 ; 8 + 4 ] = 60
+donde [ inicio , condicion fin , variacion ; exprecion ]
+Para la suma condicional se debe de poner la expresion entre llaves ejemplo: { 3 < 5 ? 4 : 5 } = 4
+donde { 1°_num_condicion condicion 2°_num_condicion ? exprecion1 : exprcion2 }
+
+3. C++
+
+-compilar y ejecutar
+make
+.\cppcalc.exe
+
+-Ingresar Datos
+Los datos se pueden ingresar los datos ya sea separados por espacio o no ejemplo : 3 + 4 ó 3+4
+Para usar la suma condicional o la suma ciclica se tiene que dar que si en la eleccion que sale 
+cuando se ejecuta el programa
+
+4. Haskell
+
+-compilar y ejecutar
+ghc --make .\GrammarCalculator.hs 
+.\GrammarCalculator.exe
+
+-Ingresar datos
+Los datos se pueden ingresar los datos ya sea separados por espacio o no ejemplo : 3 + 4 ó 3+4
+Para finalizar la ejecucion entrar una linea en blanco.
+
+
+
